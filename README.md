@@ -1,2 +1,2 @@
-Collin M. Forde — International Real Estate
-https://collin-forde-100k.vercel.app
+Collin M. Forde real estate lander. Production: https://collin-forde-100k.vercel.app/
+Source HTML is index.html (single file + collin-portrait.jpg).
